@@ -6,3 +6,5 @@ make magic possible
 
 il panse
 
+tu panses
+il elle pense
